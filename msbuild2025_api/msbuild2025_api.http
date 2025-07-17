@@ -1,0 +1,6 @@
+@msbuild2025_api_HostAddress = http://localhost:5230
+
+GET {{msbuild2025_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
